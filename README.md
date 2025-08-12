@@ -1,4 +1,4 @@
-![Banner](https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif)
+![Banner](ezgif.com-added-text.gif)
 ### Hi there👋
 #### About Me 
 I am Bhanuraj, a recent M.Tech graduate in Geoinformatics Engineering from IIT Bombay, passionate about Data Science, Machine Learning, and Generative AI.
