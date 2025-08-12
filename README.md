@@ -21,13 +21,29 @@ I enjoy exploring innovative ways to combine data-driven insights with cutting-e
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
-![JMH](https://img.shields.io/badge/JMH%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=flat&logo=TensorFlow&logoColor=white)&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=flat&logo=PyTorch&logoColor=white)&nbsp;
+![Scikit-learn](https://img.shields.io/badge/scikit--learn%20-%23F7931E.svg?&style=flat&logo=scikit-learn&logoColor=white)&nbsp;
+![Matplotlib](https://img.shields.io/badge/Matplotlib%20-%230077B5.svg?&style=flat&logo=Matplotlib&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?&style=flat&logo=mysql&logoColor=white)&nbsp;
+![LangChain](https://img.shields.io/badge/LangChain-%2300BFFF.svg?&style=flat&logo=chainlink&logoColor=white)&nbsp;
+![Hugging Face](https://img.shields.io/badge/HuggingFace%20-%23FFCC4D.svg?&style=flat&logo=huggingface&logoColor=black)&nbsp;
+![Transformers](https://img.shields.io/badge/Transformers-%23FF6F00.svg?&style=flat&logo=huggingface&logoColor=white)&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI%20-%23009688.svg?&style=flat&logo=fastapi&logoColor=white)&nbsp;
+![Flask](https://img.shields.io/badge/Flask%20-%23000.svg?&style=flat&logo=flask&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230072C6.svg?&style=flat&logo=microsoftazure&logoColor=white)&nbsp;
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=Power%20BI&logoColor=black)&nbsp;
+
 
 ### 📫 &nbsp; How to reach me:
 
 
 <a href="https://www.linkedin.com/in/bhanuraj-badal-059012286/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:badalbhanuraj@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="mailto:badalbhanuraj@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+</a>&nbsp;
+
 
 
 <!--
