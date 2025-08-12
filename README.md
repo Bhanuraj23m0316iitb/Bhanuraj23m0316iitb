@@ -1,4 +1,4 @@
-![Banner](ezgif.com-added-text.gif)
+![Banner](https://i.postimg.cc/44bt9HhS/ezgif-com-added-text.gif)
 
 ## <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="40px"> About Me
 
