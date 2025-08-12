@@ -1,6 +1,7 @@
 ![Banner](ezgif.com-added-text.gif)
-### Hi there👋
-#### About Me 
+
+## <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="40px"> About Me
+
 I am Bhanuraj, a recent M.Tech graduate in Geoinformatics Engineering from IIT Bombay, passionate about Data Science, Machine Learning, and Generative AI.
 My academic journey and projects have strengthened my expertise in AI model development, geospatial analytics, and end-to-end data solutions  from preprocessing raw datasets to deploying scalable applications.
 I enjoy exploring innovative ways to combine data-driven insights with cutting-edge AI techniques to solve real-world challenges, whether it’s through geospatial modeling, intelligent systems, or automation pipelines.Currently, I’m working on Generative AI, Agentic AI, and Agentic RAG  building autonomous, intelligent agents capable of reasoning, retrieval-augmented generation, and adaptive decision-making. With a strong foundation in programming, cloud deployment, and AI frameworks, I’m eager to contribute to impactful projects that bridge the gap between technology and meaningful solutions.
